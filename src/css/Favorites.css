@@ -8,7 +8,7 @@
     margin-bottom: 2rem;
     text-align: center;
     font-size: 2.5rem;
-    color: #ffffff;
+    color: #d5d5d5;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   }
   
@@ -24,11 +24,11 @@
   .favorites-empty h2 {
     margin-bottom: 1rem;
     font-size: 2rem;
-    color: #e50914;
+    color: #3956aaef;
   }
   
   .favorites-empty p {
-    color: #999;
+    color: #ffffff;
     font-size: 1.2rem;
     line-height: 1.6;
   }
